@@ -1,0 +1,12 @@
+# Fetched sources. Regenerate with `python fetch.py` and `python fetch_wikidata.py`.
+data/
+
+# ~200 Noto faces, 63 MB. Regenerate with `python fonts.py`.
+fonts/
+
+# Working crops, superseded by docs/
+out/preview.png
+out/crop_*.png
+
+__pycache__/
+*.pyc
