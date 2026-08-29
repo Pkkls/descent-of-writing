@@ -10,6 +10,8 @@ The deliverable is [`out/descent_of_writing.svg`](out/descent_of_writing.svg), 2
 
 **The brief that produced it is in [PROMPT.md](PROMPT.md)**, written to be handed to any coding agent that can run code and reach the network. It carries the source URLs that actually resolve and a list of the traps that broke the first attempt, so you do not have to rediscover them.
 
+**[CONTINUE.md](CONTINUE.md) says where the soft parts are** and ranks the open work. The short version: 37 of the 56 stimulus edges default to Latin without per-script sourcing, and only 17.7% of languages have a script on record. Both are named there rather than left to be found.
+
 ## What it counts
 
 | | |
