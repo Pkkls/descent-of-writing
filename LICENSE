@@ -19,19 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This licence covers the code in this repository.
-
-The rendered plate (out/descent_of_writing.svg, out/descent_of_writing.png)
-and the catalogue (out/scripts_catalogue.csv) are released under
-CC-BY-4.0, because they incorporate Glottolog data published under that
-licence. Attribution: Glottolog 5 (Hammarstroem, Forkel, Haspelmath, Bank),
-CC-BY-4.0.
-
-The SVG embeds glyph outlines extracted from Noto fonts, used under the
-SIL Open Font License 1.1. See https://github.com/notofonts
-
-ISO 15924 and Unicode Character Database content is used under the Unicode
-Terms of Use. Wikidata content is CC0.

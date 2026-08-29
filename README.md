@@ -118,4 +118,6 @@ Sources were retrieved 2026-08-28. The plate prints its own retrieval date.
 
 ## Licence
 
-Code is MIT, see [LICENSE](LICENSE). The plate and the catalogue CSV are CC-BY-4.0, since they contain Glottolog data. The SVG embeds glyph outlines derived from Noto fonts, used under the SIL Open Font License 1.1.
+Code is MIT, see [LICENSE](LICENSE). The plate and the catalogue CSV are CC-BY-4.0, since they contain Glottolog data, and the SVG embeds glyph outlines derived from Noto under the SIL Open Font License 1.1. Full terms and the attribution string for reuse are in [NOTICE.md](NOTICE.md).
+
+No source data is redistributed here. The fetch scripts retrieve it at build time, and what is committed under `out/` is the derived result.
