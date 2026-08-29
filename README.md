@@ -8,6 +8,8 @@ A single reference plate holding every script in the ISO 15924 registry, arrange
 
 The deliverable is [`out/descent_of_writing.svg`](out/descent_of_writing.svg), 25,922 x 11,396, where every node carries its ISO 15924 code or Glottocode as an element id. It is built to be zoomed: at full size each script card is legible, and the images below are 1:1 crops of the real file, not redrawn illustrations.
 
+**The brief that produced it is in [PROMPT.md](PROMPT.md)**, written to be handed to any coding agent that can run code and reach the network. It carries the source URLs that actually resolve and a list of the traps that broke the first attempt, so you do not have to rediscover them.
+
 ## What it counts
 
 | | |
