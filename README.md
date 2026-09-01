@@ -120,6 +120,14 @@ Both would have produced a wrong plate that looked right.
 
 Sources were retrieved 2026-08-28. The plate prints its own retrieval date.
 
+## Acknowledgement
+
+The rule this plate is built on did not start here. Every edge carries the strength of its claim, and every printed figure keeps the command that regenerates it, so a reader can disagree with the genealogy without having to trust the drawing.
+
+That rule has a precise name in someone else's work. It is `provenance continuity`, one of the ten design invariants of [the Context Layer](https://sierracatalina.com/context-layer), a draft protocol for user-owned context by [sierra catalina](https://sierracatalina.com): every derived claim must carry or reference enough provenance to identify the source records behind it. The specification was read at v0.1 on 2026-08-16, two weeks before this plate was built, and re-read at v0.2 on 2026-09-01. It is the document that turned a set of habits into rules with names.
+
+The same ten invariants are measured against a full record of 82 agent errors and 18 environment defects in [autonomy-log](https://github.com/Pkkls/autonomy-log), adopted where they hold, refused with counts where they do not, and one refusal has already been overturned by a recount. Credit given where it is owed, and checkable rather than polite.
+
 ## Licence
 
 Code is MIT, see [LICENSE](LICENSE). The plate and the catalogue CSV are CC-BY-4.0, since they contain Glottolog data, and the SVG embeds glyph outlines derived from Noto under the SIL Open Font License 1.1. Full terms and the attribution string for reuse are in [NOTICE.md](NOTICE.md).
