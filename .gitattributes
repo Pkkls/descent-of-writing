@@ -1,0 +1,13 @@
+# Line endings, pinned for every platform and every autocrlf setting. Without
+# this, a clone on Windows checks the committed SVG and CSV out with CRLF while
+# the build writes LF, so `python verify.py` compares a file against a variant
+# of itself and the acceptance checks disagree with the tree they just passed
+# on. Same defect as the one recorded as E75 in Pkkls/autonomy-log, found there
+# by rebuilding a release archive and comparing it byte by byte.
+* text=auto eol=lf
+
+# Committed build output. These are the deliverable, so a diff on them should
+# be readable rather than a wall of "binary files differ".
+*.svg text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
